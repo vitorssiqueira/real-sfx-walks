@@ -1,0 +1,13 @@
+__pycache__/
+library_index.json
+taste.json
+taste_ratings.json
+listening_log.json
+ambience_steady.json
+kind_map.json
+vendor/venv/
+vendor/models/
+vendor/node_modules/
+work/
+result/
+.DS_Store
